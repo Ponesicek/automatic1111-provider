@@ -35,9 +35,6 @@ pnpm add automatic1111-provider
 
 # npm
 npm install automatic1111-provider
-
-# yarn
-npm install automatic1111-provider
 ```
 
 ## Provider Instance
